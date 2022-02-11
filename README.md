@@ -18,7 +18,7 @@ Here are some ideas to get you started:
 ## 📈 Some stats about me
 <!-- Most used langages -->
 <a href="https://github-readme-stats.vercel.app/api/top-langs/?username=EmmaPavelak">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=EmmaPavelak&theme=github_dark&langs_count=8&hide=css,scss&layout=compact%22%3E">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=EmmaPavelak&theme=github_dark&langs_count=8&hide=css,scss,html&layout=compact%22%3E">
 </a>
 <br />
 
