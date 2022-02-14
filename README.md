@@ -1,5 +1,8 @@
 ### Hi there 👋
 
+
+Full stack web developer, creative and organized !
+
 <!--
 **EmmaPavelak/EmmaPavelak** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -28,5 +31,4 @@ Here are some ideas to get you started:
 </a>
 <br />
 
-## 😂 Here is a random joke that'll make you laugh!
-![Jokes Card](https://readme-jokes.vercel.app/api)
+
