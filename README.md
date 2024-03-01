@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 
-Full stack web developer, creative and organized !
+Full stack web developer freelance
 
 <!--
 **EmmaPavelak/EmmaPavelak** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -18,7 +18,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-## 📈 Some stats about me
+<!-- ## 📈 Some stats about me  -->
 <!-- Most used langages -->
 <!-- <a href="https://github-readme-stats.vercel.app/api/top-langs/?username=EmmaPavelak">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=EmmaPavelak&theme=github_dark&langs_count=8&hide=css,scss,html&layout=compact%22%3E">
