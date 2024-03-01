@@ -1,7 +1,7 @@
-### Hi there 👋
+<!--### Hi there 👋
 
 
-Full stack web developer freelance
+Full stack web developer freelance -->
 
 <!--
 **EmmaPavelak/EmmaPavelak** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
